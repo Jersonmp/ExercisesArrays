@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1529961810 source:c:\users\lu\desktop\modif\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	"Modificaciones.h"
+	"Buscador.h"
+
+1529961641 c:\users\lu\desktop\modif\include\modificaciones.h
+	<fstream>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
+1529960814 source:c:\users\lu\desktop\modif\src\modificaciones.cpp
+	"Modificaciones.h"
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
+1529961427 source:c:\users\lu\desktop\modif\src\buscador.cpp
+	"Buscador.h"
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
+1529961802 c:\users\lu\desktop\modif\include\buscador.h
+
